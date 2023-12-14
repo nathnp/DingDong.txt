@@ -1,6 +1,6 @@
 ![](/Assets/dingdong.png)
 
-DingDong.txt is a SubGHZ playlist for the Flipper Zero. It is built off of [doorbells folder](https://github.com/UberGuidoZ/Flipper/tree/main/Sub-GHz/Doorbells) from [UberGuidoZ](https://github.com/UberGuidoZ)
+DingDong.txt is a SubGHZ playlist for the Flipper Zero. It is built off of the [doorbells folder](https://github.com/UberGuidoZ/Flipper/tree/main/Sub-GHz/Doorbells) from [UberGuidoZ](https://github.com/UberGuidoZ)
 
 ## Install and Use
 
